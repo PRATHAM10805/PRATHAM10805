@@ -1,9 +1,9 @@
-# 👋 Hey there, I'm PRATHAM10805!
+# 👋 Hey there, I'm PRATHAM!
 
 <div align="center">
   
   <!-- Animated greeting -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Developer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
   
 </div>
 
@@ -40,9 +40,9 @@ I'm a passionate developer with a love for creating impactful solutions and expl
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRATHAM10805&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRATHAM&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM10805&theme=radical&layout=compact)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM&theme=radical&layout=compact)
   
 </div>
 
@@ -52,7 +52,7 @@ I'm a passionate developer with a love for creating impactful solutions and expl
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRATHAM10805&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRATHAM&theme=radical)
   
 </div>
 
@@ -60,10 +60,9 @@ I'm a passionate developer with a love for creating impactful solutions and expl
 
 ## 🎯 Latest Projects
 
-<!-- You can update these with your actual repos -->
-- 📱 **Project Name** - Brief description here
-- 🌟 **Another Project** - What it does
-- 🚀 **Recent Build** - Cool feature explanation
+- 📱 **TaskFlow** - Collaborative task management application built with React, Node.js, and MongoDB
+- 🌟 **CodeHub** - Developer portfolio showcase platform with GitHub API integration
+- 🚀 **DataViz** - Interactive data visualization dashboard using D3.js and Express backend
 
 ---
 
@@ -72,8 +71,8 @@ I'm a passionate developer with a love for creating impactful solutions and expl
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github)](YOUR_PORTFOLIO_URL)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PRATHAM10805)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PRATHAM10805)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PRATHAM)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PRATHAM)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
   
 </div>
@@ -83,7 +82,7 @@ I'm a passionate developer with a love for creating impactful solutions and expl
 ## 📈 Contribution Graph
 
 <!-- This will show your contribution activity -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=PRATHAM10805&theme=radical)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=PRATHAM&theme=radical)
 
 ---
 
@@ -100,6 +99,6 @@ I'm a passionate developer with a love for creating impactful solutions and expl
   
   ### ✨ Thanks for visiting! Don't forget to star my repositories ⭐
   
-  ![Visitors](https://komarev.com/ghpvc/?username=PRATHAM10805&color=00D9FF&style=flat-square&label=Profile+Views)
+  ![Visitors](https://komarev.com/ghpvc/?username=PRATHAM&color=00D9FF&style=flat-square&label=Profile+Views)
   
 </div>
