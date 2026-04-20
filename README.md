@@ -25,26 +25,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Traffic Management System
-📌 https://github.com/PRATHAM10805/traffic  
-→ Smart system to optimize traffic flow using logic & automation  
-
-### 🔹 Tourism Jharkhand Website
-📌 https://github.com/PRATHAM10805/Tourism-Jharkhand  
-→ Promoting tourism with a clean and interactive web platform  
-
-### 🔹 Customer Churn Predictor
-📌 https://github.com/PRATHAM10805/Customer-churn-predictor  
-→ Machine Learning model to predict customer retention  
-
-### 🔹 CNN Model Project
-📌 https://github.com/PRATHAM10805/CNN-model  
-→ Deep Learning model using Convolutional Neural Networks  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -71,13 +51,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 🎯 Current Focus
 
