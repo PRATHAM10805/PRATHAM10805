@@ -51,9 +51,6 @@
 ## 🌐 Connect 
 
 <p align="center">
-  <a href="https://github.com/PRATHAM10805">
-    <img src="https://img.shields.io/badge/Gists-black?style=for-the-badge&logo=github"/>
-  </a>
   <a href="https://www.linkedin.com/in/pratham-mehta-067893292/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
