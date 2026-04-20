@@ -20,8 +20,15 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,html,css,git,github,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,react,nodejs,fastapi,mongodb,mysql" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge"/>
+</p>
+
 
 ---
 
@@ -41,11 +48,17 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect 
 
 <p align="center">
+  <a href="https://github.com/PRATHAM10805">
+    <img src="https://img.shields.io/badge/Gists-black?style=for-the-badge&logo=github"/>
+  </a>
   <a href="https://www.linkedin.com/in/pratham-mehta-067893292/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:mehtapratham10805@example.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
